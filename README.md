@@ -72,7 +72,6 @@ My name is **Pierpaolo Casati**. I hold a Bachelor's degree in Computer Science 
 **Package Managers**
 
 ![Maven](https://img.shields.io/badge/Deps-Maven_(pom)-informational?style=flat&logo=apachemaven&logoColor=white&color=C71A36)
-![Composer](https://img.shields.io/badge/Deps-Composer-informational?style=flat&logo=composer&logoColor=white&color=885630)
 ![npm](https://img.shields.io/badge/Deps-npm-informational?style=flat&logo=npm&logoColor=white&color=CB3837)
 ![pip](https://img.shields.io/badge/Deps-pip-informational?style=flat&logo=pypi&logoColor=white&color=3775A9)
 ![Conda](https://img.shields.io/badge/Deps-Conda-informational?style=flat&logo=anaconda&logoColor=white&color=44A833)
