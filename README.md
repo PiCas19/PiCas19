@@ -94,12 +94,11 @@ My name is **Pierpaolo Casati**. I hold a Bachelor's degree in Computer Science 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/PiCas19">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PiCas19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&show=prs_merged" />
-  </a>
-  <a href="https://github.com/PiCas19">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiCas19&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=PiCas19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PiCas19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
