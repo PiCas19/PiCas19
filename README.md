@@ -102,3 +102,16 @@ My name is **Pierpaolo Casati**. I hold a Bachelor's degree in Computer Science 
 
 
 ---
+
+## 🤝 Connect with me
+
+<p align="left">
+  <a href="mailto:pierpaolo.casati@bluewin.ch">
+    <img src="https://img.shields.io/badge/Email-pierpaolo.casati@bluewin.ch-informational?style=flat&logo=gmail&logoColor=white&color=EA4335" />
+  </a>
+  <a href="https://github.com/PiCas19">
+    <img src="https://img.shields.io/badge/GitHub-PiCas19-informational?style=flat&logo=github&logoColor=white&color=181717" />
+  </a>
+</p>
+
+---
