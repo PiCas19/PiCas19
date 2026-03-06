@@ -33,6 +33,7 @@ My name is **Pierpaolo Casati**. I hold a Bachelor's degree in Computer Science 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00)
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=239120)
 ![Assembly](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=assemblyscript&logoColor=white&color=007AAC)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
@@ -52,6 +53,7 @@ My name is **Pierpaolo Casati**. I hold a Bachelor's degree in Computer Science 
 ![Vue](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=4FC08D)
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B)
+![.NET MAUI](https://img.shields.io/badge/Framework-.NET_MAUI-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
 
 **🔐 Cybersecurity**
 
