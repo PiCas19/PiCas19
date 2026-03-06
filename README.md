@@ -100,3 +100,8 @@ My name is **Pierpaolo Casati**. I hold a Bachelor's degree in Computer Science 
   <img src="https://github.com/PiCas19/github-stats/blob/master/generated/languages.svg" />
 </p>
 
+---
+## 🌐 Website
+
+Visit my personal portfolio to explore my projects and professional journey:  
+🔗[Visit my website](https://picas19.github.io/)
